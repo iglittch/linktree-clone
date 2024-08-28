@@ -24,3 +24,20 @@ header {
     border-radius: 20px;
     background-color: rgb(245, 245, 245);
 }
+
+.container{
+    width: 91%;
+    margin: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tile{
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    margin: 7px;
+    border-radius:17px ;
+    height: 60px;
+}
