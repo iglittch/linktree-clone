@@ -55,6 +55,11 @@ h1{
     align-items: center;
     text-align: center; 
 }
+
+.tile:hover{
+    transition: cubic-bezier(.07,1.41,.82,1.41) 0.2s;
+    transform: scale(1.02);
+}
 .image-container{
     height: 110px;
     width: 110px;
