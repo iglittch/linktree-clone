@@ -25,7 +25,9 @@ h1{
 
 }
 
-
+a{
+    text-decoration: none;
+}
 
 .share-button{
     width: 40px;
